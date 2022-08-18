@@ -1,0 +1,15 @@
+Segunda clase:
+
+Definiciones:
+
+\item cola: FIFO.
+\item fila: LIFO.
+\item Grafo: Nodos y aristas.
+\item nodos adyacentes: comparten arista.
+\item matriz de adyacencia: buscar definici\'on en el libro de redes.
+\item Camino es una secuecia de nodos (rutas de soluci\'on).
+\item \'arbol: organizaci\'on jer\'arquica.
+\item estado: punto o posici\'on al que se llega por medio de una acci\'on.
+\subitem at\'omico, existen otros.
+\item estado meta: es el estado al que queremos llegar.
+
